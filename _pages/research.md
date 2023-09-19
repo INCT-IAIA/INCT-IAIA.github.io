@@ -8,4 +8,4 @@ permalink: /research/
 
 # Research projects
 
-text text
+Project 01

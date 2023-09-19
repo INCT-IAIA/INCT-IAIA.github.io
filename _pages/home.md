@@ -27,11 +27,3 @@ An emblem of our commitment to collective growth and shared knowledge, the insti
 
 
 
-
-<br /> 
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/marca-ufpe.jpg" style="width: 40px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cin.ai.png" style="width: 100px">      
-</figure>
