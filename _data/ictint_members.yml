@@ -1,7 +1,7 @@
 - name: University of Porto
   photo: Porto.jpg
-  info: Associate Institution
-  email: www.up.pt
+  info: www.up.pt
+  email: faleconosco@ufpe.br
   number_educ: 
   education1: 
   education2: 
@@ -11,8 +11,8 @@
   
 - name: University of Porto
   photo: Porto.jpg
-  info: Associate Institution
-  email: www.up.pt
+  info: www.up.pt
+  email: up@up.pt
   number_educ: 
   education1: 
   education2: 
