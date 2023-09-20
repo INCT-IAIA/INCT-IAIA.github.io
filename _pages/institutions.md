@@ -6,7 +6,7 @@ sitemap: false
 permalink: /institutions/
 ---
 
-#Brazilian Institutions
+# Brazilian Institutions
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ictbr_members %}
@@ -72,7 +72,7 @@ permalink: /institutions/
 
 
 
-#International Institutions
+# International Institutions
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ictint_members %}
